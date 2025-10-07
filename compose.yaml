@@ -1,0 +1,7 @@
+﻿services:
+  devops_assignment:
+    image: devops_assignment
+    build:
+      context: .
+      dockerfile: DevOPs_Assignment/Dockerfile
+
