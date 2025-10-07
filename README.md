@@ -19,7 +19,7 @@ A tiny .NET 8 console app packaged with Docker and wired to GitHub Actions for C
 Build and run app:
 
 ```cmd
-cd "C:\Users\97798\Downloads\Software Engineering Project 6th sem\DevOPs"
+cd DevOPs
 dotnet restore DevOPs.sln
 dotnet build DevOPs.sln -c Release
  dotnet run --project DevOPs_Assignment/DevOPs_Assignment.csproj -c Release
